@@ -1,1 +1,1 @@
-Hello Azure WebJob!
+echo Hello Azure WebJob!
